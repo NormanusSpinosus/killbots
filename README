@@ -1,0 +1,13 @@
+Robots/chase game.  Contols:
+
+  l: E
+  k: N
+  j: S
+  h: W
+  y: NW
+  u: NE
+  b: SW
+  n: SE
+
+  t: teleport
+  s: sonic screwdriver
